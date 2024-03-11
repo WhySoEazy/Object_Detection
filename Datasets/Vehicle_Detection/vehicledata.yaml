@@ -1,0 +1,13 @@
+names:
+- Motorcycle
+- Auto
+- Car
+- Bus
+- LCV(Light Motor Vehicle)
+- Truck
+- Tractor
+- Multi-Axle
+nc: 8
+test: /kaggle/working/testdata
+train: /kaggle/working/traindata
+val: /kaggle/working/validdata
