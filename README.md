@@ -4,6 +4,7 @@ All of them has been labled and trained by YOLOv8, checkpoint of each pre-train 
 
 *NOTE: 
 _Weapon_Detection has not been trained.
+
 _Checkpoint of Animals_Detection not include wild animals (just farm animals).
 
 **Structure**
